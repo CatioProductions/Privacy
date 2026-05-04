@@ -7,6 +7,7 @@ Catio Productions ("we", "our", or "us") develops and publishes Windows desktop 
 We respect your privacy. Our apps are designed to function entirely on your local device, and we do not collect, transmit, store, 
 or share any personal information.
 
+
 Data we do not collect
 Our apps do not collect, access, or transmit any of the following:
 
